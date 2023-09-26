@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Learning github packages",
   "main": "index.js",
+  "publishConfig": {
+  "@andrei162:registry": "https://npm.pkg.github.com"
+}
   "scripts": {
     "test": "exit 0"
   },
