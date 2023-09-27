@@ -4,8 +4,8 @@
   "description": "Learning github packages",
   "main": "index.js",
   "publishConfig": {
-  "@andrei162:registry": "https://npm.pkg.github.com"
-}
+    "@andrei162:registry": "https://npm.pkg.github.com"
+  },  // <-- Add a comma here
   "scripts": {
     "test": "exit 0"
   },
